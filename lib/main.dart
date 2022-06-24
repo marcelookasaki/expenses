@@ -16,7 +16,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Despesas Pessoais'),
+        title: Text('Expenses'),
       ),
       body: Center(
         child: Text('Versão Inicial'),
