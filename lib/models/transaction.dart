@@ -11,5 +11,5 @@ class Transaction {
     required this.title,
     required this.value,
     required this.date,
-  })
+  });
 }
